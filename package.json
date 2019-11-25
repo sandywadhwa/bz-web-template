@@ -1,0 +1,24 @@
+{
+  "name": "bz-web-template",
+  "version": "1.0.0",
+  "description": "Basic Web Template for Being Zero Projects",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandywadhwa/bz-web-template.git"
+  },
+  "author": "Being Zero Pvt Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandywadhwa/bz-web-template/issues"
+  },
+  "homepage": "https://github.com/sandywadhwa/bz-web-template#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
